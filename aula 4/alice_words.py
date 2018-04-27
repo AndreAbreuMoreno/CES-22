@@ -39,6 +39,8 @@ for palavra in texto:
     if palavra[0] in string.ascii_letters:
         dicionario[palavra] = dicionario.get (palavra, 0) + 1
 
+print("A palavra alice aparece {} vezes".format(dicionario['alice']))
+
 #abrir arquivo de saida
 arquivo2 = open('alice_words.txt', 'w')
 
@@ -46,6 +48,7 @@ arquivo2 = open('alice_words.txt', 'w')
 tabulacao = "{0:<20} :  {1:<10}\n================================\n" .format("word", "count")
 for x in dicionario:
     tabulacao = tabulacao +  "{0:<20} :  {1:<10}\n".format(x, dicionario[x])
+
 
 arquivo2.write(tabulacao)
 arquivo2.close()
