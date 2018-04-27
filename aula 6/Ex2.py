@@ -7,21 +7,15 @@
 #Aula 6
 # Exercicio 2
 
+import time
+def timer_decorator(func):
+    def wrapper():
+        start = time.time()
+        func()
+        print('%s took %s seconds to run' % (func.__name__, time.time() - start))
+    return wrapper
 
-def text_lower(texto):
-    def decor():
-        return = texto.lower()
-        
+@timer_decorator
+def sleeper():
+    time.sleep(3)
 
-@text_lower
-def print_text_lower(texto):
-    print(texto)
-
-
-lista = "OLAAAA!!! Como vai voce? Ainda morando por aqui? #@"
-lista2 = "O Que Estas Fazendo Por Aqui Ainda? "
-
-#text_lower(lista)
-
-print_text_lower(lista2)
-print(lista.lower())

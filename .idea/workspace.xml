@@ -2,23 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da06b61-dff0-43f1-b00d-e90920675ea9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 4/.idea/aula 4.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 4/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 4/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 4/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 4/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 5/Ex1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 6/Ex1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 6/Ex2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 6/Ex3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 8/Ex1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aula 9/Ex1.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/CES-22.iml" afterPath="$PROJECT_DIR$/.idea/CES-22.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/aula 4/alice_words.py" afterPath="$PROJECT_DIR$/aula 4/alice_words.py" />
-      <change beforePath="$PROJECT_DIR$/teste.py" afterPath="$PROJECT_DIR$/teste.py" />
-      <change beforePath="$PROJECT_DIR$/teste2.py" afterPath="$PROJECT_DIR$/teste2.py" />
+      <change beforePath="$PROJECT_DIR$/Cap10-Ex2 Captura de Tela 3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap10-Ex2 Captura de Tela1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap10-Ex2 Captura de Tela2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap10-Ex2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap11-Ex5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap11-Ex5Captura de Tela .png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap11-Ex6 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap11-Ex6.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap12-Ex8 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap12-Ex8.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap13-Ex1 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap13-Ex1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap14-Ex1 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap14-Ex1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap14-Ex2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap15-Ex3 Captura de Tela .png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap15-Ex3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap15-Ex4 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap15-Ex4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap3-Ex06.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap3-Ex11.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap3-Ex12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap3-Ex13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap4-Ex10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap4-Ex9.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap6-Ex16.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap6-Ex17.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap7-Ex12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap7-Ex13 -captura de tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap7-Ex13.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap8-Ex10 -captura de tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cap8-Ex10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/.idea/aula 4.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/.idea/libraries/R_User_Library.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/Cap16-Ex5 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/Cap16-Ex5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/alice.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/alice_words.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 4/alice_words.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/aula 6/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/aula 6/Ex2.py" afterPath="$PROJECT_DIR$/aula 6/Ex2.py" />
+      <change beforePath="$PROJECT_DIR$/aula 6/Ex3.py" afterPath="$PROJECT_DIR$/aula 6/Ex3.py" />
+      <change beforePath="$PROJECT_DIR$/aula 8/Ex1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/aula 9/Ex1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cap14-Ex2 Captura de Tela.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entradaCap13.1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entradaCap13.1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/saida.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/saidaCap13.1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teste.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teste2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wordtools.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,80 +68,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="teste.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aula 6/Ex2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wordtools.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordtools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/teste2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aula 6/Ex3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aula 8/Ex1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-              <folding>
-                <element signature="e#1#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ex1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aula 9/Ex1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,7 +98,6 @@
         <option value="$PROJECT_DIR$/alice_words.py" />
         <option value="$PROJECT_DIR$/aula 4/alice_words2.py" />
         <option value="$PROJECT_DIR$/aula 4/alice_words.py" />
-        <option value="$PROJECT_DIR$/teste.py" />
         <option value="$PROJECT_DIR$/aula 5/Ex1.py" />
         <option value="$PROJECT_DIR$/aula 6/Ex1.py" />
         <option value="$PROJECT_DIR$/aula 6/Ex3.py" />
@@ -139,14 +105,14 @@
         <option value="$PROJECT_DIR$/aula 9/Ex1.py" />
         <option value="$PROJECT_DIR$/aula 6/Ex2.py" />
         <option value="$PROJECT_DIR$/teste2.py" />
+        <option value="$PROJECT_DIR$/teste.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="365" />
-    <option name="y" value="99" />
-    <option name="width" value="1271" />
-    <option name="height" value="951" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="191" />
+    <option name="width" value="1400" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -163,8 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,20 +136,12 @@
               <item name="CES-22" type="b2602c69:ProjectViewProjectNode" />
               <item name="CES-22" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CES-22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CES-22" type="462c0819:PsiDirectoryNode" />
-              <item name="aula 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CES-22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CES-22" type="462c0819:PsiDirectoryNode" />
-              <item name="aula 6" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,56 +160,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.teste2">
-    <configuration name="Ex1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Cap7-Ex13">
+    <configuration name="Cap4-Ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CES-22" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 6/Ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap4-Ex10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Cap6-Ex16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CES-22" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 5/Ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap6-Ex16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Cap6-Ex17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CES-22" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 6/Ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap6-Ex17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Cap7-Ex12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CES-22" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap7-Ex12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Cap7-Ex13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CES-22" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap7-Ex13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,57 +269,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CES-22" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="teste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CES-22" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.alice_words" />
-      <item index="1" class="java.lang.String" itemvalue="Python.teste" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Ex1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Ex1 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.teste2" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Ex2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Cap4-Ex10" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Cap6-Ex16" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Cap6-Ex17" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Cap7-Ex12" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Cap7-Ex13" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.teste2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Ex2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.teste" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Ex1 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Ex1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Cap7-Ex13" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Cap7-Ex12" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Cap6-Ex17" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Cap6-Ex16" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Cap4-Ex10" />
       </list>
     </recent_temporary>
   </component>
@@ -348,15 +304,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="191" width="1400" height="785" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21123321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25773194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32704404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40929535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -382,70 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aula 6/Ex2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula 4/alice_words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula 5/Ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula 6/Ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cap3-Ex11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula 6/Ex2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aula 4/alice_words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -645,13 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cap3-Ex06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cap15-Ex4 Captura de Tela.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -664,40 +548,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alice_words.py" />
     <entry file="file://$PROJECT_DIR$/aula 4/alice_words2.py" />
-    <entry file="file://$PROJECT_DIR$/Cap3-Ex11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aula 6/Ex3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula 8/Ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula 9/Ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aula 9/Ex1.py" />
     <entry file="file://$PROJECT_DIR$/aula 6/Ex1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-387">
@@ -724,24 +583,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aula 6/Ex2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordtools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="378">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -750,6 +601,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula 8/Ex1.py" />
+    <entry file="file://$PROJECT_DIR$/Cap3-Ex06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap3-Ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap3-Ex12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap3-Ex13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap4-Ex9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap4-Ex10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap6-Ex16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap6-Ex17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap7-Ex12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cap7-Ex13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

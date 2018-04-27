@@ -7,20 +7,20 @@
 #Aula 6
 # Exercicio 3
 
-def list_all_guests(*args):
+def inventario(*args):
     if args is not None:
-        for name in sorted(args):
-            print(name)
-    else: print("Nao ha convidados")
+        for nome in sorted(args):
+            print(nome)
+    else: print("Nao ha itens no inventario")
 
-def list_names(**kwargs):
+def lista(**kwargs):
     if kwargs is not None:
-        for name, surname in kwargs.items():
-            print(name+" "+surname+" is one of the guests")
-    else: print("Think about some guests ;)")
+        for item, categoria in kwargs.items():
+            print(item+", "+categoria+", consta no inventario")
+    else: print("Seu inventário esta vazio")
 
-print("\nHere is a party prototype")
-print("I want to invite:")
-list_names(Lee = "Miller", Anna = "Bolena", Audrey = "Hepburn", Miss = "Moneypenny")
-print("\nThat means:")
-list_all_guests("Miller", "Bolena", "Hepburn", "Moneypenny")
+print("\nExemplo de controle de inventario")
+print("Itens no inventario")
+lista(microondas = "eletrodomestico", geladeira = "eletrodomestico", mesa = "moveis", armario = "Moveis")
+print("\nTipo de itens no inventario:")
+inventario("eletrodomestico", "moveis")
