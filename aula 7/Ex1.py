@@ -6,6 +6,9 @@
 
 #Aula 7
 # Exercicio 1
+#testando funcionalidade Thread
+
+
 import time
 import threading
 
