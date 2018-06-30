@@ -1,0 +1,1 @@
+Para verificar o examplo, digitar na URL 127.0.0.1/set e 127.0.0.1/get
